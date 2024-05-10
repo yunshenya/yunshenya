@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @yunshenya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 自我介绍
+> 一个业余开发者， 会rust，kotlin， java， python， 会搞Android开发，和后端
+-----
 
-<!---
-yunshenya/yunshenya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## _如果你也对开发软件感兴趣， 欢迎加入我的qq群_
+
+<div style="text-align: center; font-size: 20px; color: blueviolet">云深</div>
+-----
+<div align="center"><img width="200" src="img/portrait.jpg" alt="null"></div>
+
+
