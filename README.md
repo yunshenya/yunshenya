@@ -4,7 +4,7 @@
 
 ## _如果你也对开发软件感兴趣， 欢迎加入我的qq群_
 
-<div style="text-align: center; font-size: 20px; color: blueviolet">云深</div>
+<div align="center"><h2 style="color: blueviolet">云深</h2></div>
 
 -----
 
