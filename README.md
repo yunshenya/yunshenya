@@ -1,27 +1,58 @@
 <div align="center">
 
-# 👋 你好，我是 **云深**
+# 👋 Hi, I'm **Yunshen（云深）**
 
-> 一个热爱折腾的业余开发者  
-> 专注于 **Rust / Android / 后端系统**
+> An enthusiastic developer passionate about building, exploring, and understanding systems  
+> Focused on **Rust / Android / Backend Engineering**
 
 </div>
 
 ---
 
-## 🧑‍💻 关于我
+## 🧑‍💻 About Me ｜ 关于我
 
-- 🦀 **Rust**：偏系统 / 后端 / 工具链  
-- 🤖 **Android**：Kotlin / Jetpack Compose  
-- ☕ **Java**：后端 & 基础设施  
-- 🐍 **Python**：脚本 & 自动化  
-- 🌐 后端方向：接口、服务、工具、架构实验  
+**EN**
 
-> 喜欢研究底层、框架原理，以及「为什么这样设计」
+- A developer with strong interest in **systems, backend services, and tooling**
+- Enjoys digging into **framework internals and design trade-offs**
+- Values **robustness, performance, and clean architecture**
+- Comfortable working independently and learning through experimentation
+
+**中文**
+
+- 一名热衷于 **系统、后端服务与工具开发** 的开发者  
+- 喜欢研究 **框架底层原理与设计取舍**
+- 重视 **稳定性、性能与架构清晰度**
+- 擅长通过实践与实验驱动学习
 
 ---
 
-## 🚀 技术栈
+## 🧑‍💻 Technical Skills ｜ 技术方向
+
+### 🦀 Rust
+- Systems programming / Backend services / CLI tools  
+- Async programming, ownership & concurrency models  
+- Practical experience with real-world Rust projects
+
+### 🤖 Android
+- Kotlin / Jetpack Compose  
+- Modern Android architecture (state management, UI composition)
+
+### ☕ Java
+- Backend development & infrastructure-related work  
+- Familiar with common backend patterns and service design
+
+### 🐍 Python
+- Scripting & automation  
+- Tooling and rapid prototyping
+
+### 🌐 Backend
+- API design, service development, tooling  
+- Architecture experiments and engineering best practices
+
+---
+
+## 🚀 Tech Stack ｜ 技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,kotlin,java,python,android,linux,git,docker" />
@@ -29,21 +60,26 @@
 
 ---
 
-## 🤝 交流 & 讨论
+## 🤝 Communication & Collaboration ｜ 交流与合作
 
-> 如果你也对 **软件开发 / Rust / Android / 后端** 感兴趣，欢迎交流
+**EN**
 
-- 💬 **QQ群**：[编程交流(v2.0.0 nightly)](https://qm.qq.com/q/xHjQKUTDWi)
-- 📫 GitHub：[@yunshenya](https://github.com/yunshenya)
+- Open to discussions about **software engineering, Rust, Android, and backend systems**
+- Happy to exchange ideas, solutions, and engineering experiences
+
+**中文**
+
+- 欢迎交流 **软件开发 / Rust / Android / 后端系统**
+- 乐于探讨工程实践、设计思路与技术细节
+
+- 💬 QQ Group: [Programming Exchange (v2.0.0 nightly)](https://qm.qq.com/q/xHjQKUTDWi)
+- 📫 GitHub: [@yunshenya](https://github.com/yunshenya)
 
 ---
 
-## 📊 GitHub 状态
+## 📊 GitHub Stats ｜ GitHub 状态
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yunshenya&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunshenya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
