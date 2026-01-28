@@ -47,14 +47,4 @@
 
 ---
 
-## 📷 关于头像
-
-<p align="center">
-  <img src="img/portrait.jpg" width="220" style="border-radius: 50%" />
-</p>
-
-<div align="center">
-
-**Keep building. Keep learning.** 🚀
-
-</div>
+<div align="center"><img width="639" src="img/portrait.jpg" alt="null"></div>
