@@ -47,4 +47,3 @@
 
 ---
 
-<div align="center"><img width="639" src="img/portrait.jpg" alt="null"></div>
