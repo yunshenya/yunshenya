@@ -33,7 +33,7 @@
 
 > 如果你也对 **软件开发 / Rust / Android / 后端** 感兴趣，欢迎交流
 
-- 💬 **QQ群**：`3052405886`
+- 💬 **QQ群**：`784469488`
 - 📫 GitHub：[@yunshenya](https://github.com/yunshenya)
 
 ---
